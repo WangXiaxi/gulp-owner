@@ -1,0 +1,17 @@
+{
+    "site": "红狮MRO商城",
+    "version":"0.1",
+    "styles": [
+        "content/css/main.css"
+    ],
+    "scripts": [
+        "content/js/lib/jquery.js",
+        "content/js/lib/layer/layer.js",
+        "content/js/common/framework.js",
+        "content/js/lib/knockout.js",
+        "content/js/componts/menuAll.js",
+        "content/js/common/main.js",
+        "content/js/login/header.js",
+        "content/js/componts/menuMember.js"
+    ]
+}
